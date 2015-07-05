@@ -1,0 +1,27 @@
+@CHARSET "UTF-8";
+
+#idMain > div{
+	float: left;
+	margin: 5px;
+}
+
+button{
+	width: 200px;
+}
+
+img{
+	width: 100px;
+}
+
+#idUpArrow, #idDownArrow{
+	width: 50px;
+}
+
+#idLaunchButton{
+	width: 200px;
+	height: 50px;
+}
+
+#idHrsUpButton{
+	text-align: center;
+}
